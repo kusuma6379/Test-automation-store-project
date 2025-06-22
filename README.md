@@ -8,7 +8,7 @@ This project focuses on performing **Manual Testing** for an e-commerce store ap
 
 - **Madavali Kusuma**  
   - 📧 Email: kusumababu6379@gmail.com  
-  - 🌐 LinkedIn: [Madavali Kusuma](https://www.linkedin.com/in/madavali-kusuma-3496b4341/)  
+  - 🌐 LinkedIn: [Madavali Kusuma](https://www.linkedin.com/in/madavali-kusuma-441088370/)  
   - 💻 GitHub: [kusuma6379](https://github.com/kusuma6379)
 
 ---
@@ -77,5 +77,5 @@ The **Test-automation-store-project** showcases in-depth manual testing of an e-
 For queries or collaboration, feel free to connect:
 
 - Email: kusumababu6379@gmail.com  
-- LinkedIn: [Madavali Kusuma](https://www.linkedin.com/in/madavali-kusuma-3496b4341/)  
+- LinkedIn: [Madavali Kusuma](https://www.linkedin.com/in/madavali-kusuma-441088370/)  
 - GitHub: [kusuma6379](https://github.com/kusuma6379)
